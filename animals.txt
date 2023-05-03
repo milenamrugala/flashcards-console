@@ -1,10 +1,10 @@
-perro: dog
-gato: cat
-pájaro: bird
-pez: fish
-ratón: mouse
-caballo: horse
-vaca: cow
-cerdo: pig
-oveja: sheep
-gallina: chicken
+perro:dog
+gato:cat
+pájaro:bird
+pez:fish
+ratón:mouse
+caballo:horse
+vaca:cow
+cerdo:pig
+oveja:sheep
+gallina:chicken

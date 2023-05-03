@@ -1,0 +1,15 @@
+zanahoria:carrot
+cebolla:onion
+ajo:garlic
+tomate:tomato
+patata:potato
+calabaza:pumpkin
+pimiento:pepper
+maíz:corn
+guisante:pea
+judía:green bean
+lechuga:lettuce
+espinacas:spinach
+brócoli:broccoli
+coliflor:cauliflower
+pepino:cucumber
