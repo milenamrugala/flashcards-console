@@ -1,0 +1,16 @@
+padre: father
+madre: mother
+hijo: son
+hija: daughter
+hermano: brother
+hermana: sister
+abuelo: grandfather
+abuela: grandmother
+nieto: grandson
+nieta: granddaughter
+tío: uncle
+tía: aunt
+primo: male cousin
+prima: female cousin
+sobrino: nephew
+sobrina: niece

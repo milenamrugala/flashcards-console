@@ -1,0 +1,13 @@
+rojo:red
+azul:blue
+amarillo:yellow
+verde:green
+naranja:orange
+morado:purple
+rosa:pink
+gris:gray
+marrón:brown
+negro:black
+blanco:white
+plata:silver
+oro:gold

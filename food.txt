@@ -1,0 +1,16 @@
+arroz: rice
+frijoles: beans
+carne: meat
+pollo: chicken
+pescado: fish
+cerdo: pork
+pan: bread
+queso: cheese
+huevos: eggs
+leche: milk
+agua: water
+frutas: fruits
+verduras: vegetables
+azúcar: sugar
+sal: salt
+aceite: oil
