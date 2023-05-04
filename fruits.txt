@@ -14,8 +14,3 @@ limón:lemon
 lima:lime
 mango:mango
 ciruela:plum
-
-
-
-
-

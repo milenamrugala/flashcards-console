@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d09e5886-cd89-4503-a693-c5cbfca0ab0a" name="Changes" comment="first commit, show all categories, choose category to master, show both spanish and english words to translate, show the result and percentage">
-      <change afterPath="$PROJECT_DIR$/fruits.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vegetables.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animals.txt" beforeDir="false" afterPath="$PROJECT_DIR$/animals.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/family-members.txt" beforeDir="false" afterPath="$PROJECT_DIR$/family-members.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/food.txt" beforeDir="false" afterPath="$PROJECT_DIR$/food.txt" afterDir="false" />
-    </list>
+    <list default="true" id="d09e5886-cd89-4503-a693-c5cbfca0ab0a" name="Changes" comment="first commit, show all categories, choose category to master, show both spanish and english words to translate, show the result and percentage" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683117950163</updated>
       <workItem from="1683117951887" duration="7122000" />
-      <workItem from="1683132050945" duration="1271000" />
+      <workItem from="1683132050945" duration="2246000" />
     </task>
     <task id="LOCAL-00001" summary="first commit, show all categories, choose category to master, show both spanish and english words to translate, show the result and percentage">
       <created>1683126140350</created>
@@ -87,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683126140350</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit, show all categories, choose category to master, show both spanish and english words to translate, show the result and percentage">
+      <created>1683133505695</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683133505695</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
