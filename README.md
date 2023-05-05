@@ -10,3 +10,6 @@ The flashcard data is stored in plain text files with a .txt extension.
 Each line of the file contains a pair of words separated by a colon.
 The program reads the data from these files and
 creates a HashMap where the keys are the Spanish words and the values are the English translations.
+
+To use the program, simply run the Flashcards.java file in your preferred Java development environment.
+The program will prompt you to enter the correct translation for each word.
