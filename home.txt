@@ -1,0 +1,10 @@
+casa:house
+apartamento:apartment
+dormitorio:bedroom
+cocina:kitchen
+baño:bathroom
+sala de estar:living room
+comedor:dining room
+jardín:garden
+garaje:garage
+techo:roof

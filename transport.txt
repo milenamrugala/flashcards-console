@@ -1,0 +1,10 @@
+coche:car
+tren:train
+avión:airplane
+barco:boat
+autobús:bus
+motocicleta:motorcycle
+bicicleta:bicycle
+helicóptero:helicopter
+camión:truck
+taxi:taxi
