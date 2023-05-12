@@ -1,0 +1,10 @@
+lluvia:rain
+nieve:snow
+viento:wind
+tormenta:storm
+nube:cloud
+sol:sun
+calor:heat
+frío:cold
+humedad:humidity
+relámpago:lightning
