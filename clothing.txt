@@ -1,0 +1,10 @@
+camisa:shirt
+pantalones:pants
+chaqueta:jacket
+vestido:dress
+gorra:cap
+calcetines:socks
+zapatos:shoes
+sombrero:hat
+bufanda:scarf
+falda:skirt
