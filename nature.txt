@@ -1,0 +1,15 @@
+árbol:tree
+flores:flowers
+mar:sea
+río:river
+montaña:mountain
+tierra:earth
+luna:moon
+bosque:forest
+sol:sun
+nube:cloud
+playa:beach
+agua:water
+pradera:meadow
+cascada:waterfall
+desierto: desert
