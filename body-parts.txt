@@ -1,0 +1,10 @@
+brazo:arm
+pierna:leg
+cabeza:head
+mano:hand
+pie:foot
+ojo:eye
+nariz:nose
+boca:mouth
+oreja:ear
+dedo:finger
