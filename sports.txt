@@ -1,0 +1,10 @@
+fútbol:soccer
+baloncesto:basketball
+tenis:tennis
+golf:golf
+natación:swimming
+béisbol:baseball
+ciclismo:cycling
+esquí:skiing
+boxeo:boxing
+atletismo:athletics
