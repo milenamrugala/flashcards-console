@@ -1,0 +1,10 @@
+alegría:joy
+tristeza:sadness
+enojo:anger
+miedo:fear
+sorpresa:surprise
+amor:love
+odio:hate
+ansiedad:anxiety
+vergüenza:shame
+felicidad:happiness
