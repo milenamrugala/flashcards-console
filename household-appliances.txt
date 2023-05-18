@@ -1,0 +1,10 @@
+lavaplatos:dishwasher
+lavadora:washing machine
+secadora:dryer
+nevera:refrigerator
+horno:oven
+microondas:microwave
+cafetera:coffee maker
+tostadora:toaster
+batidora:blender
+aspiradora:vacuum cleaner
