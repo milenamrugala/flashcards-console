@@ -1,0 +1,11 @@
+España:Spain
+Francia:France
+Alemania:Germany
+Italia:Italy
+Reino Unido:United Kingdom
+Portugal:Portugal
+Grecia:Greece
+Suecia:Sweden
+Noruega:Norway
+Polonia:Poland
+Finlandia:Finland
