@@ -1,0 +1,10 @@
+médico:doctor
+maestro:teacher
+abogado:lawyer
+ingeniero:engineer
+enfermero:nurse
+arquitecto:architect
+periodista:journalist
+cocinero:chef
+carpintero:carpenter
+electricista:electrician
