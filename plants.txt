@@ -1,0 +1,10 @@
+flor:flower
+árbol:tree
+hierba:grass
+musgo:moss
+seto:hedge
+rosa:rose
+girasol:sunflower
+margarita:daisy
+lirio:lily
+tulipán:tulip
