@@ -1,0 +1,10 @@
+museo:museum
+parque:park
+banco:bank
+estación de tren:train station
+hospital:hospital
+biblioteca:library
+teatro:theater
+ayuntamiento:city hall
+iglesia:church
+mercado:market
