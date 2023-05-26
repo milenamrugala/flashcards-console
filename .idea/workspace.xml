@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d09e5886-cd89-4503-a693-c5cbfca0ab0a" name="Changes" comment="xml file" />
+    <list default="true" id="d09e5886-cd89-4503-a693-c5cbfca0ab0a" name="Changes" comment="new category added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +88,8 @@
       <workItem from="1684606944866" duration="847000" />
       <workItem from="1684676041883" duration="227000" />
       <workItem from="1684781677032" duration="545000" />
+      <workItem from="1684876831993" duration="289000" />
+      <workItem from="1685124856252" duration="189000" />
     </task>
     <task id="LOCAL-00001" summary="first commit, show all categories, choose category to master, show both spanish and english words to translate, show the result and percentage">
       <created>1683126140350</created>
@@ -227,7 +231,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684782019401</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="xml file">
+      <created>1684877056596</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1684877056596</updated>
+    </task>
+    <task id="LOCAL-00022" summary="new category added">
+      <created>1684877071197</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1684877071197</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,8 +263,8 @@
     <MESSAGE value="emotions category" />
     <MESSAGE value="sport category" />
     <MESSAGE value="new category" />
-    <MESSAGE value="new category added" />
     <MESSAGE value="xml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="xml file" />
+    <MESSAGE value="new category added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new category added" />
   </component>
 </project>
