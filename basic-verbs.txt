@@ -1,0 +1,10 @@
+abrir:open
+ayudar:help
+estar:be
+gustar:like
+jugar:play
+llamar:call
+querer:want
+tener:have
+ser:be
+saber:know
