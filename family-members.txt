@@ -14,3 +14,9 @@ primo:male cousin
 prima:female cousin
 sobrino:nephew
 sobrina:niece
+hombre:man
+mujer:woman
+amigo:friend
+familia:family
+niña:girl
+niño:boy
