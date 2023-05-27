@@ -4,7 +4,9 @@ viento:wind
 tormenta:storm
 nube:cloud
 sol:sun
+luna:moon
 calor:heat
+caliente:hot
 frío:cold
 humedad:humidity
 relámpago:lightning
