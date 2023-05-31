@@ -18,3 +18,11 @@ diecisiete:seventeen
 dieciocho:eighteen
 diecinueve:nineteen
 veinte:twenty
+treinta:thirty
+cuarenta:forty
+cincuenta:fifty
+sesenta:sixty
+setenta:seventy
+ochenta:eighty
+noventa:ninety
+cien:one hundred
