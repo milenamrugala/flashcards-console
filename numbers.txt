@@ -26,3 +26,12 @@ setenta:seventy
 ochenta:eighty
 noventa:ninety
 cien:one hundred
+doscientos:two hundred
+trescientos:three hundred
+cuatrocientos:four hundred
+quinientos:five hundred
+seiscientos:six hundred
+setecientos:seven hundred
+ochocientos:eight hundred
+novecientos:nine hundred
+mil:one thousand
