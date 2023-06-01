@@ -90,6 +90,7 @@
       <workItem from="1685124856252" duration="189000" />
       <workItem from="1685136751439" duration="259000" />
       <workItem from="1685217660337" duration="599000" />
+      <workItem from="1685562974321" duration="376000" />
     </task>
     <task id="LOCAL-00001" summary="first commit, show all categories, choose category to master, show both spanish and english words to translate, show the result and percentage">
       <created>1683126140350</created>
@@ -287,7 +288,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685218239363</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="additional numbers added">
+      <created>1685563187821</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1685563187821</updated>
+    </task>
+    <task id="LOCAL-00030" summary="xml file">
+      <created>1685563201021</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1685563201021</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,6 +325,7 @@
     <MESSAGE value="additional animals words" />
     <MESSAGE value="additional weather words" />
     <MESSAGE value="additional family members words" />
+    <MESSAGE value="additional numbers added" />
     <MESSAGE value="xml file" />
     <option name="LAST_COMMIT_MESSAGE" value="xml file" />
   </component>
