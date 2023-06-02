@@ -20,3 +20,16 @@ amigo:friend
 familia:family
 niña:girl
 niño:boy
+gemelo:the identical twin boy
+gemela:the identical twin girl
+mellizo:the twin boy
+melliza:the twin girl
+marido:husband
+esposo:male spouse
+esposa:female spouse
+cuñado:brother-in-law
+cuñada:sister-in-law
+suegro:father-in-law
+suegra:mother-in-law
+yerno:son-in-law
+nuera:daughter-in-law
