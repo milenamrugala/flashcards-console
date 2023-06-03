@@ -8,3 +8,6 @@ cafetera:coffee maker
 tostadora:toaster
 batidora:blender
 aspiradora:vacuum cleaner
+cubo:bucket
+escoba:broom
+mandil:apron
