@@ -8,3 +8,15 @@ periodista:journalist
 cocinero:chef
 carpintero:carpenter
 electricista:electrician
+bailarín:dancer
+bombero:firefighter
+camarero:waiter
+carnicero:butcher
+carpintero:carpenter
+cartero:postman
+dentista:dentist
+electricista:electrician
+fontanero:plumber
+futbolista:football player
+jardinero:gardener
+peluquero:hairdresser
