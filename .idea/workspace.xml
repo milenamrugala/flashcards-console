@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d09e5886-cd89-4503-a693-c5cbfca0ab0a" name="Changes" comment="xml file">
-      <change afterPath="$PROJECT_DIR$/days-of-the-week.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/family-members.txt" beforeDir="false" afterPath="$PROJECT_DIR$/family-members.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/body-parts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/body-parts.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/household-appliances.txt" beforeDir="false" afterPath="$PROJECT_DIR$/household-appliances.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jobs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public-places.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public-places.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +98,8 @@
       <workItem from="1685217660337" duration="599000" />
       <workItem from="1685562974321" duration="376000" />
       <workItem from="1685612014686" duration="460000" />
-      <workItem from="1685710280301" duration="768000" />
+      <workItem from="1685710280301" duration="818000" />
+      <workItem from="1685813722234" duration="703000" />
     </task>
     <task id="LOCAL-00001" summary="first commit, show all categories, choose category to master, show both spanish and english words to translate, show the result and percentage">
       <created>1683126140350</created>
@@ -322,7 +325,28 @@
       <option name="project" value="LOCAL" />
       <updated>1685612289501</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="family members - additional words">
+      <created>1685711127846</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1685711127846</updated>
+    </task>
+    <task id="LOCAL-00034" summary="new category added">
+      <created>1685711135419</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1685711135419</updated>
+    </task>
+    <task id="LOCAL-00035" summary="xml file">
+      <created>1685711147085</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1685711147085</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,12 +364,13 @@
     <MESSAGE value="emotions category" />
     <MESSAGE value="sport category" />
     <MESSAGE value="new category" />
-    <MESSAGE value="new category added" />
     <MESSAGE value="new category added - basic verbs" />
     <MESSAGE value="additional animals words" />
     <MESSAGE value="additional weather words" />
     <MESSAGE value="additional family members words" />
     <MESSAGE value="additional numbers added" />
+    <MESSAGE value="family members - additional words" />
+    <MESSAGE value="new category added" />
     <MESSAGE value="xml file" />
     <option name="LAST_COMMIT_MESSAGE" value="xml file" />
   </component>
