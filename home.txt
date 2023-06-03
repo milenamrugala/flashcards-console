@@ -1,4 +1,5 @@
 casa:house
+hogar:home
 apartamento:apartment
 dormitorio:bedroom
 cocina:kitchen
@@ -8,3 +9,7 @@ comedor:dining room
 jardín:garden
 garaje:garage
 techo:roof
+pasillo:corridor
+sótano:basement
+habitación:room
+escaleras:stairs
