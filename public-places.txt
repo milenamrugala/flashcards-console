@@ -8,3 +8,7 @@ teatro:theater
 ayuntamiento:city hall
 iglesia:church
 mercado:market
+panadería:bakery
+juguetería:toy store
+librería:book shop
+farmacia:pharmacy
