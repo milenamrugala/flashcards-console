@@ -1,10 +1,20 @@
-abrir:open
-ayudar:help
-estar:be
-gustar:like
-jugar:play
-llamar:call
-querer:want
-tener:have
-ser:be
-saber:know
+abrir:to open
+ayudar:to help
+estar:to be
+gustar:to like
+jugar:to play
+llamar:to call
+querer:to want
+tener:to have
+ser:to be
+saber:to know
+comprar:to buy
+vender:to sell
+probar:to try on
+acordarse: to remember
+dormir:to sleep
+morir:to die
+costar:to cost
+contar:to tell
+volar:to fly
+volver:to come back
