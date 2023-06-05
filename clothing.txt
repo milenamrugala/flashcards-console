@@ -8,3 +8,4 @@ zapatos:shoes
 sombrero:hat
 bufanda:scarf
 falda:skirt
+bolso:handbag
