@@ -1,0 +1,12 @@
+viajar:to travel
+el seguro de viaje:travel insurance
+el pasaporte:passport
+los boletos de avión:airplane tickets
+la agencia de viajes:travel agency
+el aeropuerto:airport
+el avión:airplane
+el hotel:hotel
+el restaurante:restaurant
+alquilar:to rent
+cambiar dinero: to change money
+comprar:to buy
