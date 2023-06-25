@@ -1,0 +1,17 @@
+anteayer:day before yesterday
+ayer:yesterday
+año:year
+día:day
+mes:month
+siglo:century
+hora:hour
+hoy:today
+semana:week
+madrugada:very early in the morning
+mañana:tomorrow
+mañana:morning
+medianoche:midnight
+mediodia:noon
+minuto:minute
+noche:night
+tarde:afternoon
