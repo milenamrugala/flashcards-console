@@ -18,3 +18,18 @@ costar:to cost
 contar:to tell
 volar:to fly
 volver:to come back
+abrazar:to hug
+amar:to love
+reír:to laugh
+perdonar:to forgive
+empezar:to start
+seguir:to follow
+abrir:to open
+buscar:to search
+cantar:to sing
+cerrar:to close
+destruir:to destroy
+dormir:to sleep
+encontrar:to find
+esconder:to hide
+esperar:to wait
