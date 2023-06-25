@@ -1,4 +1,5 @@
 alegría:joy
+alegre:joyful
 tristeza:sadness
 enojo:anger
 miedo:fear
@@ -8,3 +9,5 @@ odio:hate
 ansiedad:anxiety
 vergüenza:shame
 felicidad:happiness
+tímido:shy
+preocupado:worried
